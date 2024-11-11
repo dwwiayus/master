@@ -1,16 +1,13 @@
-# master
+Nama: Dwi Ayu Setiawati
+Kelas: 2A TRPL
+Nim: 362358302073
 
-A new Flutter project.
+Praktikum 1
+1. pada pratikum step 4 file data_layer hanya berisi expor dari file plan dan task, itu karena agar perulangan pemanggilan class pada coding tidak terlalu banyak, dalam satu file sudah menyagkut 2 class didalamnya jadi saat import di file lain hanya menggunakan "import:data_layer.dart" saja.
+2. Variabel plan digunakan untuk mengelola data state yang terkait dengan rencana di dalam widget.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Praktikum 2
+1. ![Screenshot (5)](https://github.com/user-attachments/assets/2a403ba2-e195-435d-bab5-3a6ba7b1a05a)
+2. 
